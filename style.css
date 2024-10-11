@@ -70,7 +70,7 @@ body {
         rgba(255, 255, 255, 0.3) 0%,
         rgba(255, 255, 255, 0.3) 100%
       ),
-      url(../voicu-apostol-XjawEnKJB2E-unsplash.jpg);
+      url(./images/voicu-apostol-XjawEnKJB2E-unsplash.jpg);
       background-size: cover;
 }
 .cards {
@@ -254,7 +254,7 @@ p {
         rgba(255, 255, 255, 0.4) 0%,
         rgba(255, 255, 255, 0.4) 100%
       ),
-      url(../voicu-apostol-XjawEnKJB2E-unsplash.jpg);
+      url(./images/voicu-apostol-XjawEnKJB2E-unsplash.jpg);
       background-size: cover;
     display: flex;
     justify-content:space-between;
@@ -273,7 +273,7 @@ p {
       rgba(255, 255, 255, 0.1) 0%,
       rgba(255, 255, 255, 0.1) 100%
     ),
-    url(../voicu-apostol-93F3aiv_ioM-unsplash.jpg);
+    url(./images/voicu-apostol-93F3aiv_ioM-unsplash.jpg);
   background-size: 100%;
   border-radius: 15px;
   position: relative;
@@ -290,7 +290,7 @@ p {
         rgba(255, 255, 255, 0) 0%,
         rgba(255, 255, 255, 0) 100%
       ),
-      url(../voicu-apostol-93F3aiv_ioM-unsplash.jpg);
+      url(./images/voicu-apostol-93F3aiv_ioM-unsplash.jpg);
   }
   .card_course h1{
     color: #cdb8b8;
@@ -302,7 +302,7 @@ p {
   }
 
 .info{
-    background-image: url(../mohammad-rahmani-N5bT5RctFZ8-unsplash.jpg);
+    background-image: url(./images/mohammad-rahmani-N5bT5RctFZ8-unsplash.jpg);
     background-size: cover;
     width: 35%;
     height: 90vh;
@@ -333,7 +333,7 @@ p {
         rgba(255, 255, 255, 0.4) 0%,
         rgba(255, 255, 255, 0.4) 100%
       ),
-      url(../voicu-apostol-XjawEnKJB2E-unsplash.jpg);
+      url(./images/voicu-apostol-XjawEnKJB2E-unsplash.jpg);
       background-size: cover;
   }
   
